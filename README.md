@@ -8,6 +8,6 @@ Driven by curiosity and passion for cloud computing and security, I continuously
 
 I’m seeking opportunities in Cloud Engineering, DevOps, or DevSecOps roles where I can apply my technical skills to contribute to innovative projects and help teams achieve operational excellence.
 
-## 📫 Let’s Connect
+## Let’s Connect
 https://www.linkedin.com/in/hariharan-bhuvanendhiran-9558301a9/
 
