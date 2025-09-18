@@ -1,36 +1,13 @@
-# 🚀 Aspiring Cloud & DevOps Engineer  
-🔧 Terraform | 🐳 Docker | ☁️ AWS | ☸️ Kubernetes | 🛠️ Jenkins  | 💻 Shell
+Cloud Engineer with 3+ years of experience working extensively with AWS, Linux, Git, CI/CD pipelines, Terraform, GitLab CI, and DevSecOps practices. I specialize in designing, deploying, and managing scalable, secure cloud infrastructures and automated delivery pipelines.
 
-Hi, I'm a passionate career switcher moving from tech recruiting to building scalable cloud infrastructure and automation solutions. Here’s what I’ve been working on:
+I have strong expertise in Docker, building and managing containerized environments to support modern application workflows. Alongside this, I bring practical monitoring experience using ELK Stack, Prometheus, and Grafana for log management and performance visibility, as well as exposure to PagerDuty for incident alerting and on-call workflows.
 
----
+With a solid foundation in cloud technologies and automation, I focus on creating efficient workflows that improve software delivery speed and reliability. I’m comfortable collaborating in dynamic, fast-paced environments, using tools like JIRA to ensure smooth project execution.
 
-## 🧰 Skills & Tools
+Driven by curiosity and passion for cloud computing and security, I continuously upskill to stay ahead of evolving technologies and best practices in DevOps and DevSecOps.
 
-- **Cloud**: AWS (EC2, VPC, S3, IAM, CloudWatch, Lambda, EKS, ECS, ECR)
-- **IaC**: Terraform, CloudFormation (CFT)
-- **Containers**: Docker, Kubernetes (EKS)
-- **CI/CD & Scripting**: Jenkins, Git, Shell, Python
-- **Security**: IAM Roles & AWS Secrets Manager
-
----
-
-## 🛠️ Projects
-
-### 📌 3-Tier Architecture on AWS EKS  
-Kubernetes Pods for Web, App & DB | ALB Ingress | Helm | Secrets Manager | Terraform Infra | Jenkins CI/CD
-
-### 📌 2-Tier VPC on AWS  
-Public/Private Subnets | NAT Gateway | ALB | EC2 | S3 Gateway | CloudWatch Logs
-
-### 📌 Jenkins + ECS CI/CD  
-Jenkins triggers from Git | Docker + ECR | ECS (Fargate) Deployment | CloudWatch Monitoring
-
-### 📌 Shell Automation Scripts  
-GitHub User Fetcher | AWS Resource Tracker | Node Health Checker | Usage Monitor
-
----
+I’m seeking opportunities in Cloud Engineering, DevOps, or DevSecOps roles where I can apply my technical skills to contribute to innovative projects and help teams achieve operational excellence.
 
 ## 📫 Let’s Connect
-- 🔗 https://www.linkedin.com/in/hariharan-bhuvanendhiran-9a608b369/overlay/about-this-profile/?trk=opento_sprofile_goalscard&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Ba3Oo1js3QlanTRSSBDiA6w%3D%3D  
+https://www.linkedin.com/in/hariharan-bhuvanendhiran-9558301a9/
 
