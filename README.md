@@ -1,12 +1,12 @@
-Cloud Engineer with 3+ years of experience working extensively with AWS, Linux, Git, CI/CD pipelines, Terraform, GitLab CI, and DevSecOps practices. I specialize in designing, deploying, and managing scalable, secure cloud infrastructures and automated delivery pipelines.
+👋 About Me
 
-I have strong expertise in Docker, building and managing containerized environments to support modern application workflows. Alongside this, I bring practical monitoring experience using ELK Stack, Prometheus, and Grafana for log management and performance visibility, as well as exposure to PagerDuty for incident alerting and on-call workflows.
+---
 
-With a solid foundation in cloud technologies and automation, I focus on creating efficient workflows that improve software delivery speed and reliability. I’m comfortable collaborating in dynamic, fast-paced environments, using tools like JIRA to ensure smooth project execution.
+Cloud Engineer | 3+ Years Exp | AWS, DevOps & DevSecOps
 
-Driven by curiosity and passion for cloud computing and security, I continuously upskill to stay ahead of evolving technologies and best practices in DevOps and DevSecOps.
+I specialize in designing scalable, secure cloud infrastructures and automated CI/CD pipelines using AWS, Linux, Git, Terraform, and GitLab CI. My expertise includes containerization with Docker and comprehensive monitoring via ELK Stack, Prometheus, and Grafana, with PagerDuty for incident management.
 
-I’m seeking opportunities in Cloud Engineering, DevOps, or DevSecOps roles where I can apply my technical skills to contribute to innovative projects and help teams achieve operational excellence.
+Driven by a passion for cloud security and automation, I focus on optimizing software delivery speed and reliability. I thrive in fast-paced environments, utilizing JIRA for seamless collaboration. I am seeking Cloud Engineering, DevOps, or DevSecOps roles to apply my skills in building operational excellence and innovative cloud solutions.
 
 ## Let’s Connect
 https://www.linkedin.com/in/hariharan-bhuvanendhiran-9558301a9/
