@@ -59,4 +59,10 @@ https://www.linkedin.com/in/hariharan-bhuvanendhiran-9558301a9/
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
+---
 
+I focus on designing clear, reliable systems that enhance availability and make cloud infrastructure straightforward to manage.
+
+My repositories and projects highlight practical AWS and DevOps implementations built to address real operational and engineering challenges.
+
+Let’s connect and collaborate to create robust, scalable cloud environments.
