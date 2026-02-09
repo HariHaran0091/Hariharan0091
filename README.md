@@ -2,7 +2,7 @@
 
 ---
 
-Cloud Engineer | 3+ Years Exp | AWS, DevOps & DevSecOps
+Cloud Engineer | AWS, DevOps & DevSecOps
 
 I specialize in designing scalable, secure cloud infrastructures and automated CI/CD pipelines using AWS, Linux, Git, Terraform, and GitLab CI. My expertise includes containerization with Docker and comprehensive monitoring via ELK Stack, Prometheus, and Grafana, with PagerDuty for incident management.
 
